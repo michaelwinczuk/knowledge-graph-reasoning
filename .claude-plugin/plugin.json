@@ -1,0 +1,23 @@
+{
+  "name": "knowledge-graph-reasoning",
+  "description": "Build, query, validate, and reason over knowledge graphs. Adversarial fact validation, deterministic reasoning pipeline, and JSON-LD schema.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Michael Winczuk",
+    "email": "michael@swarmlabsusa.com"
+  },
+  "homepage": "https://github.com/michaelwinczuk/knowledge-graph-reasoning",
+  "repository": "https://github.com/michaelwinczuk/knowledge-graph-reasoning",
+  "license": "Apache-2.0",
+  "keywords": [
+    "knowledge-graph",
+    "reasoning",
+    "fact-validation",
+    "graph-reasoning",
+    "json-ld",
+    "structured-intelligence",
+    "adversarial-validation",
+    "deterministic-reasoning"
+  ],
+  "category": "knowledge-management"
+}
